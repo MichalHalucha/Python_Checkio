@@ -13,3 +13,12 @@ build/
 # OS / Editors
 .DS_Store
 .vscode/
+
+# virtual env / lokalne środowiska
+.checkiopy/
+venv/
+
+# cache narzędzi
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
